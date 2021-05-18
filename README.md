@@ -20,7 +20,7 @@ A_star.py holds all weighted A* algorithm code, including collision detection al
 Here are some example results  
 <img src="Images/A_star/cube2.png" width = 400>
 <img src="Images/A_star/1window2.PNG">
-<img src="Images/A_star/room1.PNG">
+<img src="Images/A_star/room1.PNG" width = 350>
 <img src="Images/A_star/1monza1.PNG" width = 400>
 <img src="Images/A_star/flappybird1.PNG">
 <img src="Images/A_star/1tower1 (1).PNG">
