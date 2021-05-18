@@ -17,7 +17,7 @@ Run main.py which will run the weighted A* algorithm on 7 pre-computed environme
 A_star.py holds all weighted A* algorithm code, including collision detection algorithm.
 
 ## Results
-Here are some example results
+Here are some example results  
 <img src="Images/A_star/cube2.PNG">
 <img src="Images/A_star/1window2.PNG">
 <img src="Images/A_star/room1.PNG">
