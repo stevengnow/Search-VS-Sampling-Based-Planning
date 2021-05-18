@@ -13,6 +13,7 @@ Run main.py which will run the weighted A* algorithm on 7 pre-computed environme
 - Flappy Bird  
 - Tower  
 - Maze  
+
 A_star.py holds all weighted A* algorithm code, including collision detection algorithm.
 
 ## Results
